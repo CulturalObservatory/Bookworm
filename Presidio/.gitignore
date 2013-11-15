@@ -1,0 +1,17 @@
+*.out
+*.log
+*.png
+*~
+*#
+*.tmp
+kyoto*
+.DS_Store
+*.pyc
+*.RData
+HistoryDiss
+HistoryDiss/*
+*.tar.gz
+
+oldfiles
+files
+
